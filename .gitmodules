@@ -10,3 +10,9 @@
 [submodule "lib/redis"]
 	path = lib/redis
 	url = https://github.com/antirez/redis.git
+[submodule "lib/Socket.IO"]
+	path = lib/Socket.IO
+	url = https://github.com/LearnBoost/Socket.IO.git
+[submodule "lib/Socket.IO-node"]
+	path = lib/Socket.IO-node
+	url = https://github.com/LearnBoost/Socket.IO-node.git
