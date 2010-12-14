@@ -1,0 +1,12 @@
+[submodule "lib/node-camp"]
+	path = lib/node-camp
+	url = https://github.com/joyent/node-camp.git
+[submodule "lib/connect"]
+	path = lib/connect
+	url = https://github.com/senchalabs/connect.git
+[submodule "lib/node_redis"]
+	path = lib/node_redis
+	url = https://github.com/mranney/node_redis.git
+[submodule "lib/redis"]
+	path = lib/redis
+	url = https://github.com/antirez/redis.git
